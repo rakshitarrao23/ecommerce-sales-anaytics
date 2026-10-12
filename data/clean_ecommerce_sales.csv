@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Product,Category,Quantity,Unit_Price,Region,Payment_Method,Total_Sales
+ORD001,C001,Laptop,Electronics,1,55000,South,UPI,55000
+ORD002,C002,Mobile Phone,Electronics,2,25000,South,Credit Card,50000
+ORD003,C003,Headphones,Accessories,3,2000,West,UPI,6000
+ORD004,C004,Keyboard,Accessories,2,1500,North,Debit Card,3000
+ORD005,C005,Mouse,Accessories,4,800,South,Cash,3200
+ORD006,C006,Smart Watch,Wearables,1,5000,East,UPI,5000
+ORD007,C007,Tablet,Electronics,2,30000,West,Credit Card,60000
+ORD008,C008,Laptop,Electronics,1,55000,South,UPI,55000
+ORD009,C009,Mobile Phone,Electronics,1,25000,North,Debit Card,25000
+ORD010,C010,Headphones,Accessories,2,2000,East,Cash,4000

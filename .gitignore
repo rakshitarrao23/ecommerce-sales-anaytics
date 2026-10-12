@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+frontend-ui/node_modules/
+dist/
+frontend-ui/dist/
+.env
+.env.*
+.vscode/
+ecommerce_sales.db
+*.db-journals
